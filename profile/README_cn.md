@@ -5,6 +5,7 @@
 <img src="./static/UBTECHLogo.png" width=50% align="center">
 
 优必选科技创立于2012年3月，是人形机器人的领导者和智能服务机器人的领航企业。我们始终秉持“让智能机器人走进千家万户，让人类的生活方式变得更加便捷化、智能化、人性化”的使命。
+
 优必选聚焦工业制造、商用服务、家庭陪伴三大场景，凭借人形机器人全栈式技术能力，推出了“硬件+软件+服务+运营”一体化的智能服务机器人解决方案，致力于以创新科技回应社会重大需求，创造可持续发展的社会价值。
 
 [![Website](https://img.shields.io/badge/Website-UBTECH-005CAF?style=flat&logo=internet-explorer&logoColor=white)](https://www.ubtrobot.com) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/UBTECHRobotics) [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ubtechrobotics?si=UUKZz3IOpqEKlNey) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](http://www.facebook.com/ubtechroboticscorp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-in&logoColor=white)](https://linkedin.com/company/ubtech-robotics) [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/472153261) [![小红书](https://img.shields.io/badge/小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/7m8J7o4PQVr)
