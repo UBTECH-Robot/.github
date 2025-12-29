@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="./README_CN.md"> 🇨🇳 | 中文主页 </a>
+</div>
+
 # Hi  We are UBTECH 👋
 
 *A leading Humanoid Robots and Smart Service Robots Company*
