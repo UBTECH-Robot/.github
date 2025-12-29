@@ -6,7 +6,7 @@
 
 *A leading Humanoid Robots and Smart Service Robots Company*
 
-<img src="./profile/static/UBTLogo.png" width="306" height="77" align="center">
+<img src="./static/UBTLogo.png" width="306" height="77" align="center">
 
 UBTECH ROBOTICS CORP LTD was established in March 2012. As a leading humanoid robots and smart service robots company, we bring intelligent robots into every family, making everyday life convenient and intelligent.
 
