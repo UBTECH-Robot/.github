@@ -30,40 +30,12 @@
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
     <tr><th align="center"> Title </th> <th align="center"> Description </th>
-    <tr>
-         <td align="center" > <a href="https://github.com/UBTEDU-OPEN/tkvoice">TK-Voice</a></td>
-        <td> 一个基于天工行者（无界/无疆）的离线语音交互系统项目，集成了语音识别（ASR）、大语言模型（LLM）和文本转语音（TTS）三大核心功能，实现端到端的离线语音对话能力。<br></a></td>
-    </tr>
-    <tr>
-          <td align="center" > <a href="https://github.com/tienkungrobotics/Walker-TienKung-URDF?tab=readme-ov-file">Walker-TienKung-URDF</a></td>
-        <td>天工机器人的URDF数据包，包含完整的机器人描述文件（URDF）和网格文件（STL），定义了机械结构、关节限位、质量分布等核心参数。该数据包支持在ROS环境和Gazebo仿真平台中进行运动规划与控制算法验证。<br></a></td>
-    </tr>
-    <tr>
-          <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung-Lab">TienKung-Lab</a></td>
-        <td> 一款基于强化学习的运动控制系统，专为全尺寸人形机器人天工设计。它融合了AMP风格的奖励机制与周期性步态奖励，以实现自然、稳定且高效的行走与奔跑行为。<br></a></td>
-    </tr>
-    <tr>
-          <td align="center" > <a href="https://github.com/Open-X-Humanoid/Deploy_Tienkung">Deploy-TienKung</a></td>
-        <td> 天工人形机器人强化学习控制项目集,包含天工系列人形机器人强化学习控制系统的主要组件。<br></a></td>
-    </tr>
-    <tr>
-          <td align="center" > <a href="https://github.com/Open-X-Humanoid/x-humanoid-training-toolchain">x-humanoid-training-toolchain</a></td>
-        <td>本项目提供一套基于开源LeRobot框架的训练工具链，用于适配天工人形机器人与RoboMIND数据集。它支持用户便捷地利用RoboMIND数据集进行开发，并基于LeRobot为天工机器人训练具身操作模型。<br></a></td>
-    </tr>
     </tr>
     </tbody>
 </table>
 
 # 联系我们
-### 联系方式
-- **销售联系:** sales@ubtrobot.com
-- **教育业务咨询:** UBTECH.EDU@ubtrobot.com
-- **媒体咨询:** pr@ubtrobot.com
-- **售后服务:** aftersales@ubtrobot.com
-- **人才招聘:** talent@ubtrobot.com
-- **诚信合规:** compliance@ubtrobot.com
-- **法律事务:** legalaffairs@ubtrobot.com
-- **投资者关系:** investor@ubtrobot.com
+- developer@ubtrobot.com
 
 # 开发者社区
 
