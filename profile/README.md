@@ -14,7 +14,7 @@ UBTECH focuses on three key application scenarios: industrial manufacturing, com
 
 [![Website](https://img.shields.io/badge/Website-UBTECH-005CAF?style=flat&logo=internet-explorer&logoColor=white)](https://www.ubtrobot.com) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/UBTECHRobotics) [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ubtechrobotics?si=UUKZz3IOpqEKlNey) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](http://www.facebook.com/ubtechroboticscorp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-in&logoColor=white)](https://linkedin.com/company/ubtech-robotics) [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/472153261) [![小红书](https://img.shields.io/badge/小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/7m8J7o4PQVr)
 
-[![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace_Profile-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/UBTECH-Robotics)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/UBTECH-Robotics)
 
 # Join Our Open Source Community!
 
