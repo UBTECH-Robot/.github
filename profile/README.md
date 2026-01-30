@@ -36,7 +36,7 @@ Whether you're from academia, industry, or an individual developer passionate ab
 
 # Open Source Activities
 
-Here are our latest open-source activities in the community – stay tuned! 🚀
+Upcoming updates—stay tuned! 🚀
 
 
 # Repositories
@@ -52,5 +52,4 @@ Here are our latest open-source activities in the community – stay tuned! 🚀
 
 - developer@ubtrobot.com
 
-# Developer Community
 
