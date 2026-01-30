@@ -41,15 +41,12 @@ Here are our latest open-source activities in the community – stay tuned! 🚀
 
 # Repositories
 
-<table><tbody>
-
-
-<table class="table table-striped table-bordered table-vcenter"/>
-    <tbody>
-    <tr><th align="center" > Title </th> <th align="center" > Description </th>
-    </tr>
-    </tbody>
-</table>
+| Title | Description |
+| :--- | :--- |
+| [Thinker]((https://github.com/UBTECH-Robot/Thinker)) | A state-of-the-art vision-language foundation model specifically engineered for embodied intelligence, which is designed to bridge the gap between general scene understanding and robust robot-centric task-level capabilities. Thinker sets new records across 7 embodied AI benchmarks in Task Planning, Visual Grounding and Spatial Understanding, and significantly outperforms existing open-source, closed-source, and specialized baselines, showing its potential as a foundation for embodied intelligence and autonomous robotic decision-making. |
+| [TienKung-Lab](https://github.com/UBTECH-Robot/TienKung-Lab) | This framework is an RL-based locomotion control system suitable for full-sized humanoid robots, Walker TienKung. It integrates AMP-style rewards with periodic gait rewards, facilitating natural, stable, and efficient walking and running behaviors. |
+| [x-humanoid-training-toolchain](https://github.com/UBTECH-Robot/x-humanoid-training-toolchain) | This project provides a training toolchain for adapting Walker TienKung humanoid robots with the open-source LeRobot framework. It enables users to train embodied manipulation models for Walker TienKung robots based on the Lerobot. |
+| [Deploy_Tienkung](https://github.com/UBTECH-Robot/Deploy_Tienkung) | Walker Tienkung humanoid robot reinforcement learning control project collection, which contains the main components of the Walker Tienkung series humanoid robot reinforcement learning control system. |
 
 # Contact Us
 
