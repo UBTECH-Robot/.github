@@ -38,6 +38,7 @@
 | Title | Description |
 | :--- | :--- |
 | [Thinker](https://github.com/UBTECH-Robot/Thinker) | 一款专为具身智能打造的尖端视觉语言基础模型，旨在弥合通用场景理解与稳健机器人任务能力之间的鸿沟。Thinker在任务规划、视觉定位和空间理解三大领域创下7项具身AI基准测试新纪录，显著超越现有开源、闭源及专用基线模型，展现出作为具身智能与自主机器人决策基础架构的巨大潜力。 |
+| [WalkerS2-Model](https://github.com/UBTECH-Robot/WalkerS2-Model) | Walker S2 双足机器人标准模型包，提供 URDF 与 USD 双格式支持。URDF 文件适用于 ROS/ROS2 环境下的可视化与 Gazebo 仿真；USD 文件适用于 NVIDIA Omniverse/Isaac Sim 生态的高保真物理仿真与强化学习研究。 |
 | [TienKung-Lab](https://github.com/UBTECH-Robot/TienKung-Lab) | 本项目是一个基于强化学习（RL）的运动控制系统，适用于全尺寸人形机器人天工行者。它将 AMP 风格的奖励与周期性步态奖励相结合，促进了自然、稳定和高效的行走和跑步行为。该框架已在真机得到成功验证。 |
 | [x-humanoid-training-toolchain](https://github.com/UBTECH-Robot/x-humanoid-training-toolchain) | 本项目是天工行者机器人对于 Lerobot 开源框架适配的训练工具链。使用此项目，用户可以基于 Lerobot 开源框架的算法实现天工行者机器人的具身操作。 |
 | [Deploy_Tienkung](https://github.com/UBTECH-Robot/Deploy_Tienkung) | 天工行者人形机器人强化学习控制项目集，包含了天工行者系列人形机器人强化学习控制系统的主要组件。 |
